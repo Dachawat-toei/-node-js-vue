@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+.v-application--wrap {
+  font-family: 'Kanit', sans-serif;
+}
+.v-application {
+  a {
+    color: blue !important;
+    text-decoration: underline;
+    font-size: 1.25rem;
+  }
+}
